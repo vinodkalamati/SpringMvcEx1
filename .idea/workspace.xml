@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="SpringMvcEx1.war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4de80d6e-091a-430e-a6cd-c59f5d199350" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../PE2/.idea/PE2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/PE2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/main/java/com/.idea/com.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/main/java/com/stackroute/EvenNumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/main/java/com/stackroute/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/main/java/com/stackroute/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/main/java/com/stackroute/Power0f4Checker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/main/java/com/stackroute/StudentGrades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/main/java/com/stackroute/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/main/java/com/stackroute/palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/test/java/com/stackroute/FactorialTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/test/java/com/stackroute/MemberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/test/java/com/stackroute/PowerOf4CheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/test/java/com/stackroute/StudentGradesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/test/java/com/stackroute/TestEvenNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/test/java/com/stackroute/Usertest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE2/src/test/java/com/stackroute/palindrometest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/PE4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/main/java/AlphabeticalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/main/java/MultipleOccurencesOfAWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/main/java/OccurrenceOfACharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/main/java/PresenceOfName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/main/java/ReplacingACharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/main/java/TransposeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/test/java/TestAlphabeticalOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/test/java/TestMultipleOccurrenceOfAWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/test/java/TestOccurrenceOfACharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/test/java/TestPresenceOfName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/test/java/TestReplacingACharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE4/src/test/java/TestTransposeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/.idea/dictionaries/cgi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/PE5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/main/java/com/stackroute/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/main/java/com/stackroute/ArrayOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/main/java/com/stackroute/MapObjectSwapKeyValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/main/java/com/stackroute/Sorted_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/main/java/com/stackroute/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/main/java/com/stackroute/UpdateDeleteArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/main/java/com/stackroute/WordsCountInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/test/java/com/stackroute/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/test/java/com/stackroute/TestArrayOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/test/java/com/stackroute/TestMapObjectSwapkeyValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/test/java/com/stackroute/TestUpdateDeleteArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/test/java/com/stackroute/TestWordsCountInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE5/src/test/java/com/stackroute/Test_Sorted_set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/main/java/com/stackroute/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/main/java/com/stackroute/AverageLambdaStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/main/java/com/stackroute/FilterStringLambdaStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/main/java/com/stackroute/TransformStringLambdaStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/main/java/com/stackroute/UpperCaseLambdaStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/test/java/com/stackroute/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/test/java/com/stackroute/TestAverageLambaStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/test/java/com/stackroute/TestFilterStringLambdaStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/test/java/com/stackroute/TestTransformStringLambdaStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/src/test/java/com/stackroute/TestUpperCaseLambdaStreamDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/target/classes/com/stackroute/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/target/classes/com/stackroute/AverageLambdaStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/target/classes/com/stackroute/FilterStringLambdaStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/target/test-classes/com/stackroute/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/target/test-classes/com/stackroute/TestAverageLambaStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE6/target/test-classes/com/stackroute/TestFilterStringLambdaStreamDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeExercise3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeExercise3/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeExercise3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeExercise3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeExercise3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeExercise3/PracticeExercise3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeExercise3/src/test/java/com/stackroute/AddMatricesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SolidPrinciplesExercise" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/libraries/Maven__org_springframework_spring_aop_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/libraries/Maven__org_springframework_spring_beans_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/libraries/Maven__org_springframework_spring_context_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/libraries/Maven__org_springframework_spring_core_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/libraries/Maven__org_springframework_spring_expression_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/Spring-xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/Spring-xml-demo/Springxml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMVCApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMVCApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMVCApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMVCApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMVCApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMVCApp/SpringMVCApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMVCApp/src/main/java/com/stackroute/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/.idea/artifacts/SpringMvcApp_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/SpringMvcApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/src/main/java/com/stackroute/TextboxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/src/main/java/com/stackroute/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/src/main/java/com/stackroute/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/src/main/webapp/WEB-INF/spring-mvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/src/main/webapp/WEB-INF/views/users.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/SpringMvcApp/WEB-INF/classes/com/stackroute/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/SpringMvcApp/WEB-INF/classes/com/stackroute/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/SpringMvcApp/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/SpringMvcApp/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/SpringMvcApp/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/SpringMvcApp/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/SpringMvcApp/WEB-INF/spring-mvc-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/classes/com/stackroute/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/classes/com/stackroute/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/.idea/artifacts/SpringMvcDemo_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/SpringMvcDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/src/main/java/com/stackroute/Addcontroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/src/main/webapp/WEB-INF/Harricson-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/classes/com/stackroute/Addcontroller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/Harricson-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/classes/com/stackroute/Addcontroller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/SpringMvcDemo/target/springmvcdemo/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/springMVC/springMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/springMVC/src/main/java/com/stackroute/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/springMVC/src/main/java/com/stackroute/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/springMVC/src/main/webapp/WEB-INF/jsp/hello.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/springMVC/src/main/webapp/WEB-INF/spring-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/springMVC/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringFundamentalswithXMLConfigurations/springMVC/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/SpringMvcEx1_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_javaee_api_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__taglibs_standard_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringMvcApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringPractice/DependencyInjection_injectingObjects/DependencyInjection_injectingObjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringPractice/Dependency_injection/Dependency_injection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringPractice/SpringApplication/SpringApplication.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../streams-boilerplate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DataMungerStep1_Boilerplate" beforeDir="false" afterPath="$PROJECT_DIR$/../../DataMungerStep1_Boilerplate" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1RP77eOtsZAjROhL9abrZGHIL6i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY">
+      <option name="DOC_BASE" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="CONTEXT_PATH" value="/SpringMvcApp" />
+      <option name="TOMCAT_PORT" value="8080" />
+      <option name="AJP_PORT" value="8009" />
+      <option name="ADMIN_PORT" value="8005" />
+      <option name="VM_OPTIONS" value="" />
+      <option name="PASS_PARENT_ENV_OPTIONS" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="SpringMvcEx1.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4de80d6e-091a-430e-a6cd-c59f5d199350" name="Default Changelist" comment="" />
+      <created>1569556711905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569556711905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.jsp" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
